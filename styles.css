@@ -254,6 +254,26 @@ nav ul li a:hover {
     border: 2px solid #2C5784;
 }
 
+.cta-button2 {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: #db9b3a;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.cta-button2:hover {
+    background: white;
+    color: #db9b3a;
+    border: 2px solid #db9b3a;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     #hero {
